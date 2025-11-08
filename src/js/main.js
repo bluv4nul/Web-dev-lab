@@ -1,5 +1,5 @@
 import { DateTime } from "luxon";
-import '../scss/styles.scss';
+import '../scss/styles-full.scss';
 import 'bootstrap';
 
 function updateTime() {
