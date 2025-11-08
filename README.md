@@ -64,7 +64,7 @@ npm run build
 ### Скриншоты и размер бандла
 
 * Скриншот UI страницы:
-  ![Минимальная сборка UI](./screenshots/small-pack.jpg)
+  ![Минимальная сборка UI](./screenshots/min-pack.jpg)
 * Размер бандла: CSS — 41.29 KB, JS — 154.34 KB, Общий - 662 KB
 
 ## 4. Полная сборка (весь Bootstrap)
@@ -78,7 +78,7 @@ npm run build
 ### Скриншоты и размер бандла
 
 * Скриншот UI страницы:
-  ![Полная сборка UI](./screenshots/full-pack.jpg)
+  ![Полная сборка UI](./screenshots/max-pack.jpg)
 * Размер бандла: CSS — 227.45 KB, JS — 154.34 KB, Общий - 896 KB
 
 ## 5. Сравнение размеров бандлов
