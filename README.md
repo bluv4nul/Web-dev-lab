@@ -91,6 +91,6 @@ npm run build
 **Вывод:** Минимальная сборка позволяет существенно сократить размер бандла, сохраняя весь необходимый функционал.
 
 ## 6. Ссылки
-* Опубликованная версия страницы: [GitHub Pages](https://bluv4nul.github.io)
+* Опубликованная версия страницы: [GitHub Pages](https://bluv4nul.github.io/Web-dev-lab/)
 
 **Примечание:** Полный код проекта доступен в репозитории (`src/`), включая `index.html`, `main.js`, `styles.scss`, `package.json` и `vite.config.js`.
